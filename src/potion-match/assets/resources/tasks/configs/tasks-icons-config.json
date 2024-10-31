@@ -1,0 +1,20 @@
+{
+    "icons": [
+        {
+            "type": 1,            
+            "sprite_path": "tasks/icons/rofl/spriteFrame"
+        },
+        {
+            "type": 2,
+            "sprite_path": "tasks/icons/energy/spriteFrame"
+        },
+        {
+            "type": 4,
+            "sprite_path": "tasks/icons/match_four_plus/spriteFrame"
+        },
+        {
+            "type": 5,
+            "sprite_path": "tasks/icons/match_combo_two_plus/spriteFrame"
+        }
+    ]
+}

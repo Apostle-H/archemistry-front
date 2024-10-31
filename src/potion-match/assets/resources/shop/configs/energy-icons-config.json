@@ -1,0 +1,16 @@
+{
+    "icons": [
+        {
+            "code": 1,
+            "sprite_path": "/shop/energy_icons/small_energy_icon/spriteFrame"
+        },
+        {
+            "code": 2,
+            "sprite_path": "/shop/energy_icons/medium_energy_icon/spriteFrame"
+        },
+        {
+            "code": 3,
+            "sprite_path": "/shop/energy_icons/large_energy_icon/spriteFrame"
+        }
+    ]
+}

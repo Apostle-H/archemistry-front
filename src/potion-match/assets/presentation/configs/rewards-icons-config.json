@@ -1,0 +1,16 @@
+{
+    "map": [
+        {
+            "code": 1,
+            "sprite_title": "hard_icon"
+        },
+        {
+            "code": 2,
+            "sprite_title": "soft_icon"
+        },
+        {
+            "code": 3,
+            "sprite_title": "energy_icon"
+        }
+    ]
+}
